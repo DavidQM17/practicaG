@@ -1,14 +1,14 @@
 /*Contenido css para mi portal*/
 h1{
-    color:red;
+    color:rgb(68, 51, 3);
 
-    background-color:goldenrod;/*Es un color extraño cambio en RamaA mantener*/    
+    background-color:goldenrod;/*Es un color extraño cambio en RamaA mantener**************/    
     }
 
 div{
-    color:rgb(128, 26, 0);
-    /*Aqui se produce un cambio de nuevo cambios en Master masntener*/
-
+    color:rgb(36, 128, 0);
+    /*Aqui se produce un cambio de nuevo cambios en Master masntener***********/
+    font-size:14px;
     /*Era necedario*/
     }     
 
