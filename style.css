@@ -1,13 +1,14 @@
 /*Contenido css para mi portal*/
 h1{
     color:red;
-    background-color:goldenrod;
+    background-color:goldenrod;/*Es un color extraño*/
     
     }
 
 div{
-    color:green;
-    /*Aqui se produce un cambio*/
+    color:rgb(128, 26, 0);
+    /*Aqui se produce un cambio de nuevo*/
+    /*Era necedario*/
     }     
 
 
