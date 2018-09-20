@@ -1,14 +1,19 @@
 /*Contenido css para mi portal*/
-h1{color:red;
+h1{
+    color:red;
     background-color:goldenrod;
     
     }
-    
+
+div{
+    color:green;
+    /*Aqui se produce un cambio*/
+    }     
+
+
 h2,h3,h4,h5,h6 {
     color:blue;
     background-color:goldenrod;
     }
 
-div{
-    color:green;
-}    
+   
